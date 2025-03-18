@@ -6,20 +6,15 @@ Este repositório contém o código e a análise para um projeto de predição d
 
 O dataset utilizado foi coletado a partir de consultas de preço para corridas de aplicativo entre algumas regiões de Boston durante novembro e dezembro de 2018. Ele contém aproximadamente 700 mil instâncias com 57 variáveis, incluindo informações sobre preço da corrida, categoria do veículo, horário, condições climáticas, entre outras.
 
-O dataset original pode ser encontrado no Kaggle:
-- [Dataset original](https://www.kaggle.com/raviilmunde/uber-lyft-cab-prices)
-- [Dataset com variáveis adicionais](https://www.kaggle.com/brdmachado/uber-lyft-boston)
+O dataset original pode ser encontrado no Kaggle.
 
 ## Estrutura do Repositório
 
 - **[uber_lyft_price_prediction](https://github.com/erikmilesi/uber_lyft_price_prediction/blob/main/uber_lyft_price_prediction.ipynb)**: Contém o Jupyter Notebook com a análise e o código para a predição do preço das corridas.
-- **data/**: Contém o dataset utilizado no projeto.
-- **scripts/**: Contém scripts auxiliares para processamento de dados ou outras tarefas.
+- **[data](https://www.kaggle.com/datasets/ravi72munde/uber-lyft-cab-prices?sort=votes&select=cab_rides.csv)**: Contém o dataset utilizado no projeto.
 - **README.md**: Este arquivo, que fornece uma visão geral do projeto.
 
-## Como Executar o Código
-
-### Pré-requisitos
+## Pré-requisitos
 
 Para executar o código, você precisará das seguintes bibliotecas Python:
 
