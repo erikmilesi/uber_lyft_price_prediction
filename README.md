@@ -12,7 +12,7 @@ O dataset original pode ser encontrado no Kaggle:
 
 ## Estrutura do Repositório
 
-- **notebooks/**: Contém o Jupyter Notebook com a análise e o código para a predição do preço das corridas.
+- **\[uber_lyft_price_prediction]('https://github.com/erikmilesi/uber_lyft_price_prediction/blob/main/uber_lyft_price_prediction.ipynb')**: Contém o Jupyter Notebook com a análise e o código para a predição do preço das corridas.
 - **data/**: Contém o dataset utilizado no projeto.
 - **scripts/**: Contém scripts auxiliares para processamento de dados ou outras tarefas.
 - **README.md**: Este arquivo, que fornece uma visão geral do projeto.
