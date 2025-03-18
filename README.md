@@ -46,7 +46,8 @@ Bibliotecas específicas do scikit-learn que são utilizadas incluem:
 
 ---
 
-# Uber and Lyft Fare Prediction ![English](https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_Kingdom.svg)
+# Uber and Lyft Fare Prediction 
+[![English](https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_Kingdom.svg)](link-para-english-version)
 
 
 This repository contains the code and analysis for a project predicting the fare of Uber and Lyft rides using machine learning techniques. The main goal is to predict the expected fare of a ride based on variables such as vehicle category, time, weather conditions, and more. The optimization metric used is MAPE (Mean Absolute Percentage Error).
