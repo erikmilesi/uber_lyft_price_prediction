@@ -34,15 +34,6 @@ Bibliotecas específicas do scikit-learn que são utilizadas incluem:
 - `make_column_transformer`, `Pipeline`, `make_pipeline` — Para criação de pipelines de pré-processamento e modelagem.
 - `mean_absolute_percentage_error`, `mean_squared_error`, `mean_absolute_error` — Para avaliar a performance dos modelos.
 
-## Como Executar o Projeto
-
-1. **Instalar os requisitos**:
-   Para instalar todas as dependências necessárias, execute o seguinte comando:
-
-   ```bash
-   pip install -r requirements.txt
-
-
 ---
 
 # Uber and Lyft Fare Prediction 
@@ -81,10 +72,3 @@ Specific `scikit-learn` libraries used include:
 - `make_column_transformer`, `Pipeline`, `make_pipeline` — For creating preprocessing and modeling pipelines.
 - `mean_absolute_percentage_error`, `mean_squared_error`, `mean_absolute_error` — For evaluating model performance.
 
-## How to Run the Project
-
-1. **Install the dependencies**:
-   To install all the necessary dependencies, run the following command:
-
-   ```bash
-   pip install -r requirements.txt
