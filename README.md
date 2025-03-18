@@ -1,5 +1,4 @@
-# Predição do Preço de Corridas de Uber e Lyft ![Português](https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg)
-
+# Predição do Preço de Corridas de Uber e Lyft 
 
 Este repositório contém o código e a análise para um projeto de predição do preço de corridas de Uber e Lyft usando técnicas de machine learning. O objetivo principal é prever o valor esperado de uma corrida com base em variáveis como categoria do veículo, horário, condições climáticas, entre outras. A métrica utilizada para otimização é o MAPE (Mean Absolute Percentage Error).
 
@@ -47,8 +46,6 @@ Bibliotecas específicas do scikit-learn que são utilizadas incluem:
 ---
 
 # Uber and Lyft Fare Prediction 
-[![English](https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_Kingdom.svg)](link-para-english-version)
-
 
 This repository contains the code and analysis for a project predicting the fare of Uber and Lyft rides using machine learning techniques. The main goal is to predict the expected fare of a ride based on variables such as vehicle category, time, weather conditions, and more. The optimization metric used is MAPE (Mean Absolute Percentage Error).
 
