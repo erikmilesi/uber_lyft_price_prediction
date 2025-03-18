@@ -1,4 +1,4 @@
-# Predição do Preço de Corridas de Uber e Lyft ![Bandeira do Brasil](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zY3JpcHQtMjAgY29tcGxldGU9Il0gdi12aWV3Qm94PSIwIDAgNTEyIDUxMiI+Cgk8ZyBmaWxsPSJub25lIj4KPHJlY3Qgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiIGZpbGw9IiMwMEE4NTkiLz4KPHBvbHlnb24gZmlsbD0iI0ZGQ0MwMCIgcG9pbnRzPSIyNTYsMTIwIDEyOCwyNTYgMjU2LDM5MiAiLz4KPHNpcmNsZSBjeD0iMjU2IiBjeT0iMjU2IiByPSIxNTAiIGZpbGw9IiMzZTQwOTUiLz4KPHBhdGggZmlsbD0ibm9uZSIgZD0iTTEyOSwyNjAgYzcuNywyLjYsMjAuMiwtMCAzNi40LDExLjQgMTUuNCw1LjIsMjkuNiwxMS4zMywgMTMuOSwzOS4yYzE1LjIsMTIuMiwzLjgsMjIuOSw1LjgsMzYuOCw4Ljk1LDE3LjcsMjAuOSwzLjgsMTEuMiwzMC40QzAiLz4KPC9nPjwvc3ZnPgo=)
+# Predição do Preço de Corridas de Uber e Lyft 
 
 Este repositório contém o código e a análise para um projeto de predição do preço de corridas de Uber e Lyft usando técnicas de machine learning. O objetivo principal é prever o valor esperado de uma corrida com base em variáveis como categoria do veículo, horário, condições climáticas, entre outras. A métrica utilizada para otimização é o MAPE (Mean Absolute Percentage Error).
 
